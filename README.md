@@ -6,7 +6,7 @@
 |-----------------------|---------------|-------------------------------------------|
 | Introductory Problems |     0/19     |  ![](https://geps.dev/progress/0)        |
 | Sorting and Searching |     0/35     |  ![](https://geps.dev/progress/0)        |
-| Dynamic Programming   |     0/19     |  ![](https://geps.dev/progress/0)        |
+| Dynamic Programming   |     1/19     |  ![](https://geps.dev/progress/5)        |
 | Graph Algorithms      |     0/36     |  ![](https://geps.dev/progress/0)        |
 | Range Queries         |     0/19     |  ![](https://geps.dev/progress/0)        |
 | Tree Algorithms       |     0/16     |  ![](https://geps.dev/progress/0)        |
